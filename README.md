@@ -1,6 +1,9 @@
 # Loan-Application-Risk-Assessment-Clustering-
 Clustering loan applicants based on these attributes, we aim to gain insights into different applicant segments, their risk profiles, and tailor lending strategies to optimize decision-making and mitigate risk.
 
+# File-
+1. Applicant-details.csv file is the Data file 
+
 # Acknowledgments-
 
 I would like to express my gratitude to the following individuals and sources for their contributions to this project:
